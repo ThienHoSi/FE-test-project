@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![alt text](https://github.com/ThienHoSi/FE-test-project/blob/main/public/Screenshot%202024-08-22%20020851.png?raw=true)
