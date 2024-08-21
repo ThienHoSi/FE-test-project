@@ -50,7 +50,7 @@ onUnmounted(() => {
     <TheFooter />
     <ToTopButton
       @click="scrollToTop"
-      class="cursor-pointer fixed top-[738px] right-[80px] z-30 transition ease delay-75"
+      class="cursor-pointer fixed top-[628px] 2xl:top-[738px] right-4 2xl:right-[80px] z-30 transition ease delay-75"
       :class="{ 'rotate-180': rotateUp, 'rotate-0': !rotateUp }"
     />
   </div>
